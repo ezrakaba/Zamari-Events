@@ -1,0 +1,1616 @@
+Uri: https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500;1,600&display=swap
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i&display=swap
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v16/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYqXtP.ttf
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\s\cormorantgaramond\v16\co3bmX5slCNuHLi8bLeY9MK7whWMhyjYqXtP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v16/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEO7uj-KzhY.ttf
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\s\cormorantgaramond\v16\co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEO7uj-KzhY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v16/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEOXvT-KzhY.ttf
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\s\cormorantgaramond\v16\co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEOXvT-KzhY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v16/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPjuz-KzhY.ttf
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\s\cormorantgaramond\v16\co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPjuz-KzhY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v16/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQAllfvg-N.ttf
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\s\cormorantgaramond\v16\co3YmX5slCNuHLi8bLeY9MK7whWMhyjQAllfvg-N.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v16/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQdl9fvg-N.ttf
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\s\cormorantgaramond\v16\co3YmX5slCNuHLi8bLeY9MK7whWMhyjQdl9fvg-N.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v16/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQWlhfvg-N.ttf
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\s\cormorantgaramond\v16\co3YmX5slCNuHLi8bLeY9MK7whWMhyjQWlhfvg-N.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v16/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtImS8.ttf
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\s\cormorantgaramond\v16\co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtImS8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFda35WCmI96Ajtm83upeyoaX6QPnlo6fPPrOQ.ttf
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\s\overpass\v13\qFda35WCmI96Ajtm83upeyoaX6QPnlo6fPPrOQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFda35WCmI96Ajtm83upeyoaX6QPnlo6IvTrOQ.ttf
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\s\overpass\v13\qFda35WCmI96Ajtm83upeyoaX6QPnlo6IvTrOQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFda35WCmI96Ajtm83upeyoaX6QPnlo6ovPrOQ.ttf
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\s\overpass\v13\qFda35WCmI96Ajtm83upeyoaX6QPnlo6ovPrOQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFda35WCmI96Ajtm83upeyoaX6QPnlo6zvPrOQ.ttf
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\s\overpass\v13\qFda35WCmI96Ajtm83upeyoaX6QPnlo6zvPrOQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFda35WCmI96Ajtm83upeyoaX6QPnlo6_PLrOQ.ttf
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\s\overpass\v13\qFda35WCmI96Ajtm83upeyoaX6QPnlo6_PLrOQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFda35WCmI96Ajtm83upeyoaX6QPnlo6_PPrOQ.ttf
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\s\overpass\v13\qFda35WCmI96Ajtm83upeyoaX6QPnlo6_PPrOQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLADe5qP.ttf
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\s\overpass\v13\qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLADe5qP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLADepqP.ttf
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\s\overpass\v13\qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLADepqP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLAxepqP.ttf
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\s\overpass\v13\qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLAxepqP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLBdepqP.ttf
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\s\overpass\v13\qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLBdepqP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLCDepqP.ttf
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\s\overpass\v13\qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLCDepqP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLDdfZqP.ttf
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\s\overpass\v13\qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLDdfZqP.ttf
+Content Type: font/ttf
+
+Uri: https://p.typekit.net/p.css?s=1&k=hbw4spo&ht=tk&f=13441.13442.13443.13444.18480.18481.18482.18483.18484.18485.18486.18487.18492.18493.18494.18495.25682.25683.25684.25685.41828.44348.44349.44354.44355.44360.44361.44366.44367.50115&a=11562905&app=typekit&e=css
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\p.css
+Content Type: text/css
+
+Uri: https://use.typekit.net/af/0a31c2/000000000000000077359fc5/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\0a31c2\000000000000000077359fc5\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/0a31c2/000000000000000077359fc5/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\0a31c2\000000000000000077359fc5\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/0a31c2/000000000000000077359fc5/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\0a31c2\000000000000000077359fc5\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/19483f/000000000000000077359f9f/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\19483f\000000000000000077359f9f\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/19483f/000000000000000077359f9f/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\19483f\000000000000000077359f9f\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/19483f/000000000000000077359f9f/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\19483f\000000000000000077359f9f\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/1d6640/000000000000000077359fb5/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\1d6640\000000000000000077359fb5\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/1d6640/000000000000000077359fb5/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\1d6640\000000000000000077359fb5\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/1d6640/000000000000000077359fb5/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\1d6640\000000000000000077359fb5\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/262f01/000000000000000000013231/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\262f01\000000000000000000013231\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/262f01/000000000000000000013231/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\262f01\000000000000000000013231\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/262f01/000000000000000000013231/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\262f01\000000000000000000013231\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/3021a6/000000000000000077359fa3/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\3021a6\000000000000000077359fa3\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/3021a6/000000000000000077359fa3/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\3021a6\000000000000000077359fa3\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/3021a6/000000000000000077359fa3/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\3021a6\000000000000000077359fa3\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/32d1b5/000000000000000000017777/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\32d1b5\000000000000000000017777\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/32d1b5/000000000000000000017777/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\32d1b5\000000000000000000017777\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/32d1b5/000000000000000000017777/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\32d1b5\000000000000000000017777\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/3d6fab/00000000000000007735fedb/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\3d6fab\00000000000000007735fedb\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/3d6fab/00000000000000007735fedb/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\3d6fab\00000000000000007735fedb\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/3d6fab/00000000000000007735fedb/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\3d6fab\00000000000000007735fedb\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/509e86/000000000000000077359fc6/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\509e86\000000000000000077359fc6\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/509e86/000000000000000077359fc6/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\509e86\000000000000000077359fc6\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/509e86/000000000000000077359fc6/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\509e86\000000000000000077359fc6\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/51014d/000000000000000000013230/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\51014d\000000000000000000013230\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/51014d/000000000000000000013230/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\51014d\000000000000000000013230\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/51014d/000000000000000000013230/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\51014d\000000000000000000013230\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/5d264d/000000000000000077359fa0/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\5d264d\000000000000000077359fa0\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/5d264d/000000000000000077359fa0/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\5d264d\000000000000000077359fa0\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/5d264d/000000000000000077359fa0/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\5d264d\000000000000000077359fa0\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/650441/000000000000000077359f96/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\650441\000000000000000077359f96\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/650441/000000000000000077359f96/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\650441\000000000000000077359f96\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/650441/000000000000000077359f96/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\650441\000000000000000077359f96\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/6bdb21/000000000000000077359f9a/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\6bdb21\000000000000000077359f9a\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/6bdb21/000000000000000077359f9a/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\6bdb21\000000000000000077359f9a\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/6bdb21/000000000000000077359f9a/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\6bdb21\000000000000000077359f9a\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/6f88f7/00000000000000000001322a/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\6f88f7\00000000000000000001322a\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/6f88f7/00000000000000000001322a/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\6f88f7\00000000000000000001322a\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/6f88f7/00000000000000000001322a/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\6f88f7\00000000000000000001322a\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/7e2d6c/000000000000000077359fa6/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\7e2d6c\000000000000000077359fa6\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/7e2d6c/000000000000000077359fa6/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\7e2d6c\000000000000000077359fa6\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/7e2d6c/000000000000000077359fa6/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\7e2d6c\000000000000000077359fa6\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/8c8500/000000000000000077359faa/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\8c8500\000000000000000077359faa\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/8c8500/000000000000000077359faa/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\8c8500\000000000000000077359faa\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/8c8500/000000000000000077359faa/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\8c8500\000000000000000077359faa\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/99715b/00000000000000007735b6dd/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\99715b\00000000000000007735b6dd\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/99715b/00000000000000007735b6dd/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\99715b\00000000000000007735b6dd\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/99715b/00000000000000007735b6dd/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\99715b\00000000000000007735b6dd\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/a91824/000000000000000077359f9d/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\a91824\000000000000000077359f9d\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/a91824/000000000000000077359f9d/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\a91824\000000000000000077359f9d\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/a91824/000000000000000077359f9d/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\a91824\000000000000000077359f9d\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/aac473/000000000000000077359fb4/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\aac473\000000000000000077359fb4\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/aac473/000000000000000077359fb4/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\aac473\000000000000000077359fb4\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/aac473/000000000000000077359fb4/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\aac473\000000000000000077359fb4\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/ae91cb/000000000000000077359fb6/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\ae91cb\000000000000000077359fb6\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/ae91cb/000000000000000077359fb6/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\ae91cb\000000000000000077359fb6\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/ae91cb/000000000000000077359fb6/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\ae91cb\000000000000000077359fb6\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/b1b6ad/000000000000000077359fa8/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\b1b6ad\000000000000000077359fa8\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/b1b6ad/000000000000000077359fa8/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\b1b6ad\000000000000000077359fa8\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/b1b6ad/000000000000000077359fa8/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\b1b6ad\000000000000000077359fa8\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/b5dc69/000000000000000077359f9c/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\b5dc69\000000000000000077359f9c\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/b5dc69/000000000000000077359f9c/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\b5dc69\000000000000000077359f9c\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/b5dc69/000000000000000077359f9c/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\b5dc69\000000000000000077359f9c\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/c1b4f7/000000000000000000017774/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\c1b4f7\000000000000000000017774\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/c1b4f7/000000000000000000017774/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\c1b4f7\000000000000000000017774\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/c1b4f7/000000000000000000017774/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\c1b4f7\000000000000000000017774\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/c9d9e8/000000000000000077359f97/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\c9d9e8\000000000000000077359f97\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/c9d9e8/000000000000000077359f97/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\c9d9e8\000000000000000077359f97\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/c9d9e8/000000000000000077359f97/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\c9d9e8\000000000000000077359f97\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/d4693a/000000000000000077359fc3/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\d4693a\000000000000000077359fc3\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/d4693a/000000000000000077359fc3/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\d4693a\000000000000000077359fc3\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/d4693a/000000000000000077359fc3/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\d4693a\000000000000000077359fc3\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/e5e434/000000000000000077359f99/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\e5e434\000000000000000077359f99\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/e5e434/000000000000000077359f99/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\e5e434\000000000000000077359f99\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/e5e434/000000000000000077359f99/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\e5e434\000000000000000077359f99\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/e67d8d/000000000000000000017776/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\e67d8d\000000000000000000017776\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/e67d8d/000000000000000000017776/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\e67d8d\000000000000000000017776\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/e67d8d/000000000000000000017776/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\e67d8d\000000000000000000017776\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/e7eaa8/000000000000000077359fb3/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\e7eaa8\000000000000000077359fb3\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/e7eaa8/000000000000000077359fb3/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\e7eaa8\000000000000000077359fb3\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/e7eaa8/000000000000000077359fb3/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\e7eaa8\000000000000000077359fb3\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/f0834a/00000000000000000001322b/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\f0834a\00000000000000000001322b\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/f0834a/00000000000000000001322b/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\f0834a\00000000000000000001322b\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/f0834a/00000000000000000001322b/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\f0834a\00000000000000000001322b\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/f96583/000000000000000000017775/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\f96583\000000000000000000017775\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/f96583/000000000000000000017775/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\f96583\000000000000000000017775\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/f96583/000000000000000000017775/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\f96583\000000000000000000017775\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/faf708/000000000000000077359fc4/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\faf708\000000000000000077359fc4\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/faf708/000000000000000077359fc4/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\faf708\000000000000000077359fc4\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/faf708/000000000000000077359fc4/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\af\faf708\000000000000000077359fc4\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/hbw4spo.css
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\hbw4spo.css
+Content Type: text/css
+
+Uri: https://www.google.com/recaptcha/api.js?render=6LdU8NwZAAAAAHtiwajv-VHKqE1Pjv-uXNpMS8Ns&ver=3.0
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.preciouscelebrations.co.za/
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\index.htm
+Content Type: text/html
+
+Uri: https://www.preciouscelebrations.co.za/7d5c1a61a53b1bf1d7893da5309ad1c1.eot
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\7d5c1a61a53b1bf1d7893da5309ad1c1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.preciouscelebrations.co.za/7d5c1a61a53b1bf1d7893da5309ad1c1.eot?
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\7d5c1a61a53b1bf1d7893da5309ad1c1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.preciouscelebrations.co.za/7d5c1a61a53b1bf1d7893da5309ad1c1.svg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\7d5c1a61a53b1bf1d7893da5309ad1c1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.preciouscelebrations.co.za/7d5c1a61a53b1bf1d7893da5309ad1c1.ttf
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\7d5c1a61a53b1bf1d7893da5309ad1c1.ttf
+Content Type: font/ttf
+
+Uri: https://www.preciouscelebrations.co.za/7d5c1a61a53b1bf1d7893da5309ad1c1.woff
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\7d5c1a61a53b1bf1d7893da5309ad1c1.woff
+Content Type: font/woff
+
+Uri: https://www.preciouscelebrations.co.za/7d5c1a61a53b1bf1d7893da5309ad1c1.woff2
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\7d5c1a61a53b1bf1d7893da5309ad1c1.woff2
+Content Type: font/woff2
+
+Uri: https://www.preciouscelebrations.co.za/about/
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\about\index.htm
+Content Type: text/html
+
+Uri: https://www.preciouscelebrations.co.za/balerno_serif_regular_free-webfont.eot
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\balerno_serif_regular_free-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.preciouscelebrations.co.za/balerno_serif_regular_free-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\balerno_serif_regular_free-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.preciouscelebrations.co.za/balerno_serif_regular_free-webfont.svg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\balerno_serif_regular_free-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.preciouscelebrations.co.za/balerno_serif_regular_free-webfont.ttf
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\balerno_serif_regular_free-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.preciouscelebrations.co.za/balerno_serif_regular_free-webfont.woff
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\balerno_serif_regular_free-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.preciouscelebrations.co.za/balerno_serif_regular_free-webfont.woff2
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\balerno_serif_regular_free-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://www.preciouscelebrations.co.za/brand-experience/
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\brand-experience\index.htm
+Content Type: text/html
+
+Uri: https://www.preciouscelebrations.co.za/comments/feed/
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.preciouscelebrations.co.za/contact/
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\contact\index.htm
+Content Type: text/html
+
+Uri: https://www.preciouscelebrations.co.za/feed/
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.preciouscelebrations.co.za/gifting-concierge/
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\gifting-concierge\index.htm
+Content Type: text/html
+
+Uri: https://www.preciouscelebrations.co.za/luxury-weddings/
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\luxury-weddings\index.htm
+Content Type: text/html
+
+Uri: https://www.preciouscelebrations.co.za/masterclass/
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\masterclass\index.htm
+Content Type: text/html
+
+Uri: https://www.preciouscelebrations.co.za/media/
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\media\index.htm
+Content Type: text/html
+
+Uri: https://www.preciouscelebrations.co.za/private-celebrations/
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\private-celebrations\index.htm
+Content Type: text/html
+
+Uri: https://www.preciouscelebrations.co.za/sample-page/feed/
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\sample-page\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.8
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\contact-form-7\modules\recaptcha\index.js
+Content Type: application/javascript
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.3.0
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\css\js_composer.min.css
+Content Type: text/css
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.ttf
+Content Type: font/ttf
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.woff
+Content Type: font/woff
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.eot?f6ud62
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.svg?f6ud62
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf?f6ud62
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.ttf
+Content Type: font/ttf
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.woff?f6ud62
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.woff
+Content Type: font/woff
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/flickr.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\flickr.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/address-book.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\address-book.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/alarm-clock.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\alarm-clock.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/anchor.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\anchor.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/application-image.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\application-image.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/arrow.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\arrow.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/asterisk.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\asterisk.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/auction-hammer.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\auction-hammer.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/balloon-buzz.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\balloon-buzz.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/balloon-facebook.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\balloon-facebook.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/balloon-twitter.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\balloon-twitter.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/balloon.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\balloon.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/battery-full.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\battery-full.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/binocular.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\binocular.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/blue-document-excel.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\blue-document-excel.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/blue-document-image.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\blue-document-image.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/blue-document-music.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\blue-document-music.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/blue-document-office.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\blue-document-office.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/blue-document-pdf.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\blue-document-pdf.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/blue-document-powerpoint.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\blue-document-powerpoint.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/blue-document-word.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\blue-document-word.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/bookmark.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\bookmark.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/camcorder.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\camcorder.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/camera.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\camera.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/chart-pie.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\chart-pie.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/chart.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\chart.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/clock.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\clock.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/control.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\control.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/fire.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\fire.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/heart.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\heart.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/mail.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\mail.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/plus-shield.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\plus-shield.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/icons/video.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\icons\video.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/spinner.gif
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\spinner.gif
+Content Type: image/gif
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/toggle_close.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\toggle_close.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/images/toggle_open.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\images\toggle_open.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.3.0
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\js\dist\js_composer_front.min.js
+Content Type: application/javascript
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/js/dist/vc_grid.min.js?ver=6.3.0
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\js\dist\vc_grid.min.js
+Content Type: application/javascript
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css?ver=6.3.0
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\bower\animate-css\animate.min.css
+Content Type: text/css
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/bower/imagesloaded/imagesloaded.pkgd.min.js?ver=6.3.0
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\bower\imagesloaded\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/bower/masonry/dist/masonry.pkgd.min.js?ver=6.3.0
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\bower\masonry\dist\masonry.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/owl-carousel2-dist/owl.carousel.min.js?ver=6.3.0
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\owl-carousel2-dist\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/css/prettyPhoto.min.css?ver=6.3.0
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\css\prettyPhoto.min.css
+Content Type: text/css
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/btnNext.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\dark_rounded\btnNext.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/btnPrevious.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\dark_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/contentPattern.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\dark_rounded\contentPattern.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/loader.gif
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\dark_rounded\loader.gif
+Content Type: image/gif
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/sprite.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\dark_rounded\sprite.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_square/btnNext.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\dark_square\btnNext.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_square/btnPrevious.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\dark_square\btnPrevious.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_square/loader.gif
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\dark_square\loader.gif
+Content Type: image/gif
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_square/sprite.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\dark_square\sprite.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/default/default_thumb.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\default\default_thumb.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/default/loader.gif
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\default\loader.gif
+Content Type: image/gif
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/default/sprite.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\default\sprite.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/default/sprite_next.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\default\sprite_next.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/default/sprite_prev.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\default\sprite_prev.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/default/sprite_x.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\default\sprite_x.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/default/sprite_y.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\default\sprite_y.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/btnNext.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\facebook\btnNext.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/btnPrevious.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\facebook\btnPrevious.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/contentPatternBottom.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\facebook\contentPatternBottom.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/contentPatternLeft.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\facebook\contentPatternLeft.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/contentPatternRight.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\facebook\contentPatternRight.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/contentPatternTop.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\facebook\contentPatternTop.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/default_thumbnail.gif
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\facebook\default_thumbnail.gif
+Content Type: image/gif
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/loader.gif
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\facebook\loader.gif
+Content Type: image/gif
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/sprite.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\facebook\sprite.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/light_rounded/btnNext.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\light_rounded\btnNext.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/light_rounded/btnPrevious.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\light_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/light_rounded/loader.gif
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\light_rounded\loader.gif
+Content Type: image/gif
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/light_rounded/sprite.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\light_rounded\sprite.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/light_square/btnNext.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\light_square\btnNext.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/light_square/btnPrevious.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\light_square\btnPrevious.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/light_square/sprite.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\light_square\sprite.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/prettyphoto/js/jquery.prettyPhoto.min.js?ver=6.3.0
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\prettyphoto\js\jquery.prettyPhoto.min.js
+Content Type: application/javascript
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/lib/vc_waypoints/vc-waypoints.min.js?ver=6.3.0
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\lib\vc_waypoints\vc-waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/vc/alert.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\vc\alert.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/vc/blur.svg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\vc\blur.svg
+Content Type: image/svg+xml
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/vc/exclamation.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\vc\exclamation.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/vc/info.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\vc\info.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/vc/remove.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\vc\remove.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/js_composer/assets/vc/tick.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\js_composer\assets\vc\tick.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.6
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\page-links-to\dist\new-tab.js
+Content Type: application/javascript
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/revslider/public/assets/assets/coloredbg.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\revslider\public\assets\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/revslider/public/assets/assets/gridtile.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\revslider\public\assets\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\revslider\public\assets\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/revslider/public/assets/assets/loader.gif
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\revslider\public\assets\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\revslider\public\assets\css\closedhand.cur
+Content Type: 
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/revslider/public/assets/css/openhand.cur
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\revslider\public\assets\css\openhand.cur
+Content Type: 
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8.3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\revslider\public\assets\css\settings.css
+Content Type: text/css
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg?5510888
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.ttf
+Content Type: font/ttf
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.woff
+Content Type: font/woff
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8.3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\revslider\public\assets\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8.3
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\revslider\public\assets\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/sliderpro/public/assets/css/images/closedhand.cur
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\sliderpro\public\assets\css\images\closedhand.cur
+Content Type: 
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/sliderpro/public/assets/css/images/openhand.cur
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\sliderpro\public\assets\css\images\openhand.cur
+Content Type: 
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/sliderpro/public/assets/css/slider-pro.min.css?ver=4.8.7
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\sliderpro\public\assets\css\slider-pro.min.css
+Content Type: text/css
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/sliderpro/public/assets/js/jquery.sliderPro.min.js?ver=4.8.7
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\sliderpro\public\assets\js\jquery.sliderPro.min.js
+Content Type: application/javascript
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/total-theme-core/inc/wpbakery/assets/js/vcex-front.min.js?ver=1.1.2
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\total-theme-core\inc\wpbakery\assets\js\vcex-front.min.js
+Content Type: application/javascript
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/plugins/wp-content-copy-protector/images/warning.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\plugins\wp-content-copy-protector\images\warning.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/themes/precious_celeb/assets/css/wpex-visual-composer.css?ver=4.9.9.2
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\themes\precious_celeb\assets\css\wpex-visual-composer.css
+Content Type: text/css
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/themes/precious_celeb/assets/cursors/close.ico
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\themes\precious_celeb\assets\cursors\close.ico
+Content Type: image/x-icon
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/themes/precious_celeb/assets/cursors/close2x.ico
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\themes\precious_celeb\assets\cursors\close2x.ico
+Content Type: image/x-icon
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/themes/precious_celeb/assets/images/bullets-blue.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\themes\precious_celeb\assets\images\bullets-blue.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/themes/precious_celeb/assets/images/bullets-gray.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\themes\precious_celeb\assets\images\bullets-gray.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/themes/precious_celeb/assets/images/bullets-purple.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\themes\precious_celeb\assets\images\bullets-purple.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/themes/precious_celeb/assets/images/bullets-red.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\themes\precious_celeb\assets\images\bullets-red.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/themes/precious_celeb/assets/images/carousel-video-play-btn.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\themes\precious_celeb\assets\images\carousel-video-play-btn.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/themes/precious_celeb/assets/images/check.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\themes\precious_celeb\assets\images\check.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/themes/precious_celeb/assets/images/closedhand.cur
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\themes\precious_celeb\assets\images\closedhand.cur
+Content Type: 
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/themes/precious_celeb/assets/images/dashed-overlay.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\themes\precious_celeb\assets\images\dashed-overlay.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/themes/precious_celeb/assets/images/dotted-overlay.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\themes\precious_celeb\assets\images\dotted-overlay.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/themes/precious_celeb/assets/images/dotted.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\themes\precious_celeb\assets\images\dotted.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/themes/precious_celeb/assets/images/openhand.cur
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\themes\precious_celeb\assets\images\openhand.cur
+Content Type: 
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/themes/precious_celeb/assets/images/overlay-plus.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\themes\precious_celeb\assets\images\overlay-plus.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/themes/precious_celeb/assets/images/quote.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\themes\precious_celeb\assets\images\quote.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/themes/precious_celeb/assets/js/total.min.js?ver=4.9.9.2
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\themes\precious_celeb\assets\js\total.min.js
+Content Type: application/javascript
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/themes/precious_celeb/assets/lib/ticons/fonts/ticons-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\themes\precious_celeb\assets\lib\ticons\fonts\ticons-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/themes/precious_celeb/assets/lib/ticons/fonts/ticons-webfont.eot?v=4.8
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\themes\precious_celeb\assets\lib\ticons\fonts\ticons-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/themes/precious_celeb/assets/lib/ticons/fonts/ticons-webfont.svg?v=4.8
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\themes\precious_celeb\assets\lib\ticons\fonts\ticons-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/themes/precious_celeb/assets/lib/ticons/fonts/ticons-webfont.ttf?v=4.8
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\themes\precious_celeb\assets\lib\ticons\fonts\ticons-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/themes/precious_celeb/assets/lib/ticons/fonts/ticons-webfont.woff2?v=4.8
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\themes\precious_celeb\assets\lib\ticons\fonts\ticons-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/themes/precious_celeb/assets/lib/ticons/fonts/ticons-webfont.woff?v=4.8
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\themes\precious_celeb\assets\lib\ticons\fonts\ticons-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/themes/precious_celeb/style.css?ver=4.9.9.2
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\themes\precious_celeb\style.css
+Content Type: text/css
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/09/10765854992_IMG_8956.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\09\10765854992_IMG_8956.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/09/Art-of-Planning-200x300.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\09\Art-of-Planning-200x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/09/Art-of-Planning-683x1024.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\09\Art-of-Planning-683x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/09/Art-of-Planning-768x1152.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\09\Art-of-Planning-768x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/09/Art-of-Planning.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\09\Art-of-Planning.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/09/blooms-by-precious.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\09\blooms-by-precious.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/09/Blooms-white.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\09\Blooms-white.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/09/celebrations-1.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\09\celebrations-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/09/hartford_wedding_decor_020.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\09\hartford_wedding_decor_020.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/09/IMG_0586.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\09\IMG_0586.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/09/IMG_0874.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\09\IMG_0874.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/09/IMG_2355.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\09\IMG_2355.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/09/IMG_3630.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\09\IMG_3630.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/09/IMG_6413.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\09\IMG_6413.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/09/IMG_6755.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\09\IMG_6755.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/09/Precious-The-Planner-small-200x300.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\09\Precious-The-Planner-small-200x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/09/Precious-The-Planner-small.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\09\Precious-The-Planner-small.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/006-ha0q0591-copy.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\006-ha0q0591-copy.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/01.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/010-ha0q0598-copy.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\010-ha0q0598-copy.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/011-ha0q0599-copy.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\011-ha0q0599-copy.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/015-ha0q0607-copy.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\015-ha0q0607-copy.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/018-ha0q0612-copy.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\018-ha0q0612-copy.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/02-Homepage.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\02-Homepage.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/043-ha0q0712-copy.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\043-ha0q0712-copy.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/068-ha0q0826-copy.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\068-ha0q0826-copy.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/074-b24i9244-copy.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\074-b24i9244-copy.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/1014-B24I9220.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\1014-B24I9220.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/1144-B24I9276-300x200.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\1144-B24I9276-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/1144-B24I9276-768x512.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\1144-B24I9276-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/1144-B24I9276.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\1144-B24I9276.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/1150-B24I9325.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\1150-B24I9325.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/1369-CC0T0532.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\1369-CC0T0532.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/1371-B24I9723.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\1371-B24I9723.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/2-Homepage.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\2-Homepage.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/549931ca-ea9f-4a5b-a61d-a847e38cdd971603836731965.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\549931ca-ea9f-4a5b-a61d-a847e38cdd971603836731965.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/Aldecia-and-Andrew_Luke-Tannous-photography-6395.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\Aldecia-and-Andrew_Luke-Tannous-photography-6395.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/c1a7bb45-bf5e-49bc-b356-17c72f3896391603836731967.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\c1a7bb45-bf5e-49bc-b356-17c72f3896391603836731967.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/Final-logos-white-01.svg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\Final-logos-white-01.svg
+Content Type: image/svg+xml
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/IMG_03291603836731965.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\IMG_03291603836731965.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/IMG_0925-1.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\IMG_0925-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/IMG_0956-1.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\IMG_0956-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/IMG_1125.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\IMG_1125.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/IMG_20121603836731964.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\IMG_20121603836731964.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/IMG_3121.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\IMG_3121.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/IMG_34821603836731967.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\IMG_34821603836731967.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/IMG_3922.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\IMG_3922.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/IMG_48841603836731963.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\IMG_48841603836731963.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/IMG_5735.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\IMG_5735.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/IMG_66231603836731967.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\IMG_66231603836731967.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/IMG_82041603836731964.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\IMG_82041603836731964.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/IMG_82221603836731969.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\IMG_82221603836731969.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/IMG_82321603836731968.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\IMG_82321603836731968.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/IMG_82421603836731963.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\IMG_82421603836731963.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/IMG_83341603836731964.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\IMG_83341603836731964.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/IMG_83461603836731968-1.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\IMG_83461603836731968-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/IMG_9059-1.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\IMG_9059-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/IMG_91991603836731962.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\IMG_91991603836731962.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/IMG_92511603836731966.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\IMG_92511603836731966.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/IMG_9964-1.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\IMG_9964-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/IMG_9965-1.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\IMG_9965-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/IMG_9966-1.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\IMG_9966-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/IMG_9967-1.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\IMG_9967-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/Luke-Tannous-Photography-0548.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\Luke-Tannous-Photography-0548.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/luke-tannous-photography_top-south-african-wedding-7605-1.jpg?id=903
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\luke-tannous-photography_top-south-african-wedding-7605-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/mpumigideon-753.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\mpumigideon-753.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/SamanthaClifton-ContentCreation-BrahmanHills-0236.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\SamanthaClifton-ContentCreation-BrahmanHills-0236.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/SamanthaClifton-PreciousCelebrations-MasterClassCPT-00010.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\SamanthaClifton-PreciousCelebrations-MasterClassCPT-00010.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/SamanthaClifton-PreciousCelebrations-MasterClassCPT-00015.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\SamanthaClifton-PreciousCelebrations-MasterClassCPT-00015.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/Vimbai-25th_Luke-Tannous-photography_Precious-Celebrations-15211603836731966.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\Vimbai-25th_Luke-Tannous-photography_Precious-Celebrations-15211603836731966.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/Vimbai-25th_Luke-Tannous-photography_Precious-Celebrations-15271603836731921.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\Vimbai-25th_Luke-Tannous-photography_Precious-Celebrations-15271603836731921.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/VIVIDBLUE-Angela-Charlton-Molenvliet-Wedding-039-2.jpg?id=917
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\VIVIDBLUE-Angela-Charlton-Molenvliet-Wedding-039-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/VIVIDBLUE-Angela-Charlton-Molenvliet-Wedding-039.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\VIVIDBLUE-Angela-Charlton-Molenvliet-Wedding-039.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2020/10/vividblue-tt-wedding-boschendal969.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2020\10\vividblue-tt-wedding-boschendal969.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2021/07/IMG_0581-1116x1536.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2021\07\IMG_0581-1116x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2021/07/IMG_0581-1488x2048.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2021\07\IMG_0581-1488x2048.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2021/07/IMG_0581-218x300.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2021\07\IMG_0581-218x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2021/07/IMG_0581-744x1024.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2021\07\IMG_0581-744x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2021/07/IMG_0581-768x1057.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2021\07\IMG_0581-768x1057.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2021/07/IMG_0581-scaled.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2021\07\IMG_0581-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2021/07/IMG_1408-scaled.jpg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2021\07\IMG_1408-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2023/05/cropped-weblogo-02-180x180.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2023\05\cropped-weblogo-02-180x180.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2023/05/cropped-weblogo-02-192x192.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2023\05\cropped-weblogo-02-192x192.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2023/05/cropped-weblogo-02-32x32.png
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2023\05\cropped-weblogo-02-32x32.png
+Content Type: image/png
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2023/05/weblogo-01.svg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2023\05\weblogo-01.svg
+Content Type: image/svg+xml
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2023/05/weblogo-02.svg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2023\05\weblogo-02.svg
+Content Type: image/svg+xml
+
+Uri: https://www.preciouscelebrations.co.za/wp-content/uploads/2023/05/weblogo_white-01.svg
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-content\uploads\2023\05\weblogo_white-01.svg
+Content Type: image/svg+xml
+
+Uri: https://www.preciouscelebrations.co.za/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://www.preciouscelebrations.co.za/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/javascript
+
+Uri: https://www.preciouscelebrations.co.za/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://www.preciouscelebrations.co.za/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.preciouscelebrations.co.za/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.preciouscelebrations.co.za/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://www.preciouscelebrations.co.za/wp-json/
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://www.preciouscelebrations.co.za/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.preciouscelebrations.co.za%2F
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://www.preciouscelebrations.co.za/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.preciouscelebrations.co.za%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://www.preciouscelebrations.co.za/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.preciouscelebrations.co.za%2Fabout%2F
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://www.preciouscelebrations.co.za/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.preciouscelebrations.co.za%2Fabout%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://www.preciouscelebrations.co.za/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.preciouscelebrations.co.za%2Fbrand-experience%2F
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://www.preciouscelebrations.co.za/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.preciouscelebrations.co.za%2Fbrand-experience%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://www.preciouscelebrations.co.za/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.preciouscelebrations.co.za%2Fcontact%2F
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://www.preciouscelebrations.co.za/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.preciouscelebrations.co.za%2Fcontact%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://www.preciouscelebrations.co.za/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.preciouscelebrations.co.za%2Fgifting-concierge%2F
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://www.preciouscelebrations.co.za/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.preciouscelebrations.co.za%2Fgifting-concierge%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://www.preciouscelebrations.co.za/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.preciouscelebrations.co.za%2Fluxury-weddings%2F
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://www.preciouscelebrations.co.za/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.preciouscelebrations.co.za%2Fluxury-weddings%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://www.preciouscelebrations.co.za/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.preciouscelebrations.co.za%2Fmasterclass%2F
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://www.preciouscelebrations.co.za/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.preciouscelebrations.co.za%2Fmasterclass%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://www.preciouscelebrations.co.za/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.preciouscelebrations.co.za%2Fmedia%2F
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://www.preciouscelebrations.co.za/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.preciouscelebrations.co.za%2Fmedia%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://www.preciouscelebrations.co.za/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.preciouscelebrations.co.za%2Fprivate-celebrations%2F
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://www.preciouscelebrations.co.za/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.preciouscelebrations.co.za%2Fprivate-celebrations%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://www.preciouscelebrations.co.za/wp-json/wp/v2/pages/181
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-json\wp\v2\pages\181
+Content Type: application/json
+
+Uri: https://www.preciouscelebrations.co.za/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://www.preciouscelebrations.co.za/wp-json/wp/v2/pages/202
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-json\wp\v2\pages\202
+Content Type: application/json
+
+Uri: https://www.preciouscelebrations.co.za/wp-json/wp/v2/pages/44
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-json\wp\v2\pages\44
+Content Type: application/json
+
+Uri: https://www.preciouscelebrations.co.za/wp-json/wp/v2/pages/46
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-json\wp\v2\pages\46
+Content Type: application/json
+
+Uri: https://www.preciouscelebrations.co.za/wp-json/wp/v2/pages/48
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-json\wp\v2\pages\48
+Content Type: application/json
+
+Uri: https://www.preciouscelebrations.co.za/wp-json/wp/v2/pages/50
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-json\wp\v2\pages\50
+Content Type: application/json
+
+Uri: https://www.preciouscelebrations.co.za/wp-json/wp/v2/pages/508
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-json\wp\v2\pages\508
+Content Type: application/json
+
+Uri: https://www.preciouscelebrations.co.za/wp-json/wp/v2/pages/63
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\wp-json\wp\v2\pages\63
+Content Type: application/json
+
+Uri: https://www.preciouscelebrations.co.za/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\www.preciouscelebrations.co.za\xmlrpc.php
+Content Type: text/xml
+
